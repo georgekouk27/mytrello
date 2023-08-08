@@ -7,7 +7,7 @@ A trello clone app for android using Kotlin
 * ViewBinding
 * Glide
 
-##ToDo
+## ToDo
 * Drag&drop tasks between different cards
 * Use coroutines
 * ...
