@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502663614960",
+    "project_id": "mytrello-85d26",
+    "storage_bucket": "mytrello-85d26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502663614960:android:3b70f3ec4e2991caeacd35",
+        "android_client_info": {
+          "package_name": "gr.georkouk.mytrello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502663614960-clntffi19cisqj8vp3hq3egjcp9riokd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDph0ujzVIT-A7qC5NkYpBMJDjQWa5e4ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502663614960-clntffi19cisqj8vp3hq3egjcp9riokd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
